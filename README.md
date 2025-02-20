@@ -3,17 +3,17 @@ A simple, user-friendly menstrual cycle tracker built with Python's Tkinter GUI 
 
 Features
 
--User Authentication:
+- User Authentication:
   Login and registration system to store user credentials in a users.json file.
   
--Track Menstrual Cycles:
+- Track Menstrual Cycles:
   Add start and end dates for each cycle along with flow type (light, medium, heavy).
   Visual calendar integration to highlight cycle dates.
   
--Predict Next Period:
+- Predict Next Period:
   Based on historical data, predict the next period start date.
   
--Cycle History:
+- Cycle History:
   View the history of all logged menstrual cycles.
 
 Requirements
