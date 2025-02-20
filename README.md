@@ -3,7 +3,7 @@ A simple, user-friendly menstrual cycle tracker built with Python's Tkinter GUI 
 
 Features
 
-- User Authentication:
+-User Authentication:
   Login and registration system to store user credentials in a users.json file.
   
 -Track Menstrual Cycles:
